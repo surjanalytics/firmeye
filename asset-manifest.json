@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/firmeye/static/css/main.e2c22743.css",
+    "main.js": "/firmeye/static/js/main.70bbc98c.js",
+    "static/media/logo.svg": "/firmeye/static/media/logo.381deaac759c2ed3b3522370b1bb90f6.svg",
+    "static/media/404.svg": "/firmeye/static/media/404.d65af4ab1c463eaebb45.svg",
+    "static/media/marquee.svg": "/firmeye/static/media/marquee.ba68e89299a0b5f99f75.svg",
+    "index.html": "/firmeye/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.e2c22743.css",
+    "static/js/main.70bbc98c.js"
+  ]
+}
